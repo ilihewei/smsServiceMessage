@@ -1,0 +1,10 @@
+server:
+  port: 8088
+
+
+
+getui :
+  AppID : Nm4NfSVDP38hEXgrGXsHIA
+  AppKey : GPpg4IMkg88AR7fqZMVXZ4
+  AppSecret : 3bTqKQSBzd823NttwXlmP4
+  MasterSecret : jx55EiGtTk7OxKHNg7j4n1
