@@ -61,6 +61,7 @@ public class GeTuiUtils {
      * 这些需要向指定某个用户推送消息的场景，即需要使用对单个用户推送消息的接口。
      */
     public static void pushMessage(Map<String,String> map) {
+
         IGtPush push =new IGtPush(appKey, masterSecret);
         //获取参数中的ClientID和mobileType
         String clientId=map.get("clientId");
