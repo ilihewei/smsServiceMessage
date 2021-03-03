@@ -129,8 +129,8 @@ public class GeTuiUtils {
         Map<String,String> map=new HashMap<>();
         map.put("title","测试demo");
         map.put("content","hello A");
-        map.put("mobileType","ios");
-        map.put("clientId","d818db9abfa0e46e028488a0b19a6285");
+        map.put("mobileType","android");
+        map.put("clientId","8e080e7d785486d1cd55ebc5303fb485");
         map.put("payload","40");
        // new GeTuiUtils();
         pushMessage(map);

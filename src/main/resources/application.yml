@@ -2,26 +2,9 @@ server:
   port: 8088
 
 
-# 原始版本
+
 getui :
-  AppID : Nm4NfSVDP38hEXgrGXsHIA
-  AppKey : GPpg4IMkg88AR7fqZMVXZ4
-  AppSecret : 3bTqKQSBzd823NttwXlmP4
-  MasterSecret : jx55EiGtTk7OxKHNg7j4n1
-
-
-
-
-#个人
-#  AppID : RJ0NvyQd8sANFpAM6P9Mz2
-#  AppKey : cX62HlU5d09HwPtj9mUnR6
-#  AppSecret : ET8KbvTONJAxhv1cl3TgvA
-#  MasterSecret : b2VR19O0pf8QzJSIwIZ9l2
-
-
-#商户
-#getui :
-#  AppID : i8z8lGB4aK9UnNnqHOAt56
-#  AppKey : 6fAZuQL5ww9EQ7zmC3rVY9
-#  AppSecret : YNMsRO5Cv48jz05cPJK448
-#  MasterSecret : CP9VybPwps56Y8JLwwb7G9
+  AppID: 2RuO5wFyRa76kUFZmKJCy5
+  AppKey: vBT2nZ2KGA7gEX4FuaZLc2
+  AppSecret: oG1coh9thF9PKHXiaOrzG8
+  MasterSecret: UNWXiQhVTY6WXtKtDlIwV8
